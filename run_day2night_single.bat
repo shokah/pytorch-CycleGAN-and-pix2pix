@@ -1,0 +1,2 @@
+C:/Users/shokah/AppData/Local/Continuum/anaconda3/python.exe  test.py --dataroot ./datasets/datasets/night2day/night2day --direction BtoA --model pix2pix --name day2night_pretrained --gpu_ids -1
+ @pause
