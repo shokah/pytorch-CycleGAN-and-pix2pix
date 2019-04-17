@@ -1,1 +1,1 @@
-C:/Users/shokah/AppData/Local/Continuum/anaconda3/python.exe -m visdom.server
+C:/Users/SHAIS1/AppData/Local/Continuum/anaconda3/python.exe -m visdom.server
